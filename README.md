@@ -79,11 +79,11 @@
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VargavMishra&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api?username=VargavMishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VargavMishra&theme=dark&hide_border=false)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VargavMishra&theme=github_dark&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VargavMishra&theme=github_dark&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishaltetarpur16&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=vishaltetarpur16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vishaltetarpur16&theme=dark&hide_border=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishaltetarpur16&theme=github_dark&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishaltetarpur16&theme=github_dark&exclude={exclude})
 
 ## 👾 Pac-Man Contribution Graph
 
