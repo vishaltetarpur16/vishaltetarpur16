@@ -15,9 +15,9 @@
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vishaltetarpur16@gmail.com)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=D14836)(mailto:vishaltetarpur16@gmail.com)
 
 
 # 💻 Tech Stack:
@@ -89,18 +89,18 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/VargavMishra/VargavMishra/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/vishaltetarpur16/vishaltetarpur16/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/VargavMishra/VargavMishra/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/vishaltetarpur16/vishaltetarpur16/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" 
-    src="https://raw.githubusercontent.com/VargavMishra/VargavMishra/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/vishaltetarpur16/vishaltetarpur16/output/pacman-contribution-graph.svg">
 </picture>
 
 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VargavMishra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vishaltetarpur16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
