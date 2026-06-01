@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on Building AI-powered web apps | Currently working on scalable deploy-ready projects <br>👯 I’m looking to collaborate on Looking to collaborate on full-stack and AI projects <br>🤝 I’m looking for help with Java and Full Stack Development Projects<br>🌱 I’m currently learning Advance Java <br>💬 Ask me about Java and WebTech<br>⚡ Fun fact is I treat “just trying something” like a full startup launch
+🔭 🚀 I’m currently working on Building AI-powered web applications using Python and modern AI technologies.<br>
+
+👯 I’m looking to collaborate on AI, Machine Learning, and Full-Stack Development projects.<br>
+
+🤝 I’m looking for help with Advanced Python, AI Engineering, and scalable deployment architectures.<br>
+
+🌱 I’m currently learning Generative AI, Machine Learning, and Advanced Python Development.<br>
+
+💬 Ask me about Python, AI Development, Machine Learning, Django, Flask, and Web Technologies.<br>
+
+⚡ Fun fact: I turn every AI project idea into a real-world product prototype and love experimenting with new technologies.
+
 
 
 ## 🌐 Connect With Me
